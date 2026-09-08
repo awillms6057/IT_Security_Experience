@@ -1,2 +1,2 @@
-# IT Assignments [UTSA]
+# IT Security Experience [UTSA]
 UTSA Coursework - Information Technology / CyberSecurity [2021-2024]
